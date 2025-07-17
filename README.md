@@ -15,7 +15,7 @@
 
 # Team Roles:
 
-*彭嘉仪: Main Programmer*
-*张天添: Animator / 3D Animation Manager*
-*黄备备: Scene Planner / Object Interaction Planner*
-*张宇涵: Researcher / Text Writer*
+*彭嘉仪: Main Programmer*  
+*张天添: Animator / 3D Animation Manager*  
+*黄备备: Scene Planner / Object Interaction Planner*  
+*张宇涵: Researcher / Text Writer*  
