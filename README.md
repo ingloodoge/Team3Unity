@@ -12,3 +12,10 @@
 # For Education Purpose to present information and knowledges with vivid animation
 # For people interested in crime studies and curious with the investigating proccess of these famous cases
 # More detailed/interactable presentation of these famous cases with the media of a VR museum
+
+# Team Roles:
+
+# 彭嘉仪: Main Programmer
+# 张天添: Animator / 3D Animation Manager
+# 黄备备: Scene Planner / Object Interaction Planner
+# 张宇涵: Researcher / Text Writer
